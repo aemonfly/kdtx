@@ -1,0 +1,7 @@
+name: kdtx
+version: 1
+cron:
+    - description: another cron test
+    url: fetch.php
+	  schedule: every 10 mins,offset 0
+	  timezone: Beijing
